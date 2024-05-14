@@ -1,7 +1,3 @@
- AI Job Market Analysis
-•	Developed a cutting-edge mobile and desktop application, ensuring a seamless user experience on iOS and Android.
-•	Utilized ML algorithms for accurate tracking of job posts to predict a post if it is real or fraudulent.
-•	collecting and processing data from various job posting websites to identify patterns and trends through webscraping.
-
+ In recent years, due to advancement in modern technology and social communication, advertising new posts has become very common issue in the present world. So, fake posting prediction task is going to be a great concern for all. Like many other classification tasks, fake posting prediction leaves a lot of challenges to face. This paper proposed to use different data mining techniques and classification algorithm like XG Boost classifier, Random Forest, LogisticRegression and Decision Tree to predict a post if it is real or fraudulent. We have experimented on Employment Scam Aegean Dataset (EMSCAD) containing 18000 samples performs great for this classification task. We used several machine learning (ML) algorithms to predict a fraudulent post.
 
 
